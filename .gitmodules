@@ -4,3 +4,6 @@
 [submodule "02-car-dealership"]
 	path = 02-car-dealership
 	url = https://github.com/pandc19/nest-02-car-dealership.git
+[submodule "03-pokedex"]
+	path = 03-pokedex
+	url = https://github.com/pandc19/nest-03-pokedex.git
