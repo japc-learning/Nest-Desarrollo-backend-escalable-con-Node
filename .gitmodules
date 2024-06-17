@@ -7,3 +7,6 @@
 [submodule "03-pokedex"]
 	path = 03-pokedex
 	url = https://github.com/pandc19/nest-03-pokedex.git
+[submodule "04-teslo-shop"]
+	path = 04-teslo-shop
+	url = https://github.com/pandc19/nest-04-teslo-shop.git
