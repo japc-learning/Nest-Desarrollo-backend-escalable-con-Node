@@ -1,15 +1,15 @@
 [submodule "01-typescript-intro"]
 	path = 01-typescript-intro
-	url = https://github.com/pandc19/nest-01-typescript-intro.git
+	url = https://github.com/japc-learning/nest-01-typescript-intro.git
 [submodule "02-car-dealership"]
 	path = 02-car-dealership
-	url = https://github.com/pandc19/nest-02-car-dealership.git
+	url = https://github.com/japc-learning/nest-02-car-dealership.git
 [submodule "03-pokedex"]
 	path = 03-pokedex
-	url = https://github.com/pandc19/nest-03-pokedex.git
+	url = https://github.com/japc-learning/nest-03-pokedex.git
 [submodule "04-teslo-shop"]
 	path = 04-teslo-shop
-	url = https://github.com/pandc19/nest-04-teslo-shop.git
+	url = https://github.com/japc-learning/nest-04-teslo-shop.git
 [submodule "05-ws-client"]
 	path = 05-ws-client
-	url = https://github.com/pandc19/nest-05-ws-client.git
+	url = https://github.com/japc-learning/nest-05-ws-client.git
